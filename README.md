@@ -1,2 +1,2 @@
-# Exerc-cios-js
+# Exercícios-js
 Exercícios resolvidos das aulas do curso de programação
